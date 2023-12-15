@@ -1,6 +1,4 @@
-# Project Title
-
-Isaac Room Checklist
+# Isaac Room Checklist
 
 ## Description
 
